@@ -52,7 +52,7 @@ body {
 				<h1>Prediction: <span class='danger'> Wow ! This customer will purchase in the next month.</span></h1>
 				<img class="gif" src="{{ url_for('static', filename='shopping1.jfif') }}" alt="Customer Image">
 			{% elif prediction==0 %}
-				<h1>Prediction: <span class='safe'>Opps! This customer will not purchase in the next month.</span></h1>
+				<h1>Prediction: <span class='safe'>Oops! This customer will not purchase in the next month.</span></h1>
 				<img class="gif1" src="{{ url_for('static', filename='noshopping1.jfif') }}" alt="Not Customer Image">
 			{% endif %}
 		</div>
