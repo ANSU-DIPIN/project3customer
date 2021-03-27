@@ -30,9 +30,7 @@ def predict():
         DayDiff3 = float(request.form['DayDiff3'])
         DayDiffMean = float(request.form['DayDiffMean'])
         DayDiffStd = float(request.form['DayDiffStd'])
-        #Segment_HighValue = int(request.form['Segment_HighValue'])
-        #Segment_LowValue = int(request.form['Segment_LowValue'])
-        #Segment_MidValue = int(request.form['Segment_MidValue'])
+        
         
         data = np.array([[DayDiff, Recency, RecencyCluster, Frequency, 
                           FrequencyCluster, Revenue, RevenueCluster, 
