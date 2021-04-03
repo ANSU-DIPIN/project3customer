@@ -30,18 +30,31 @@ The film consists of three separate but concurrent stories, loosely connected by
 ![image](https://user-images.githubusercontent.com/71720761/113479634-dd6b9380-94ad-11eb-835e-5503a158f812.png)
 
 ***BANKS
+
 Investment banks are judged to have been one of the main causes of the recession
+
 RETAIL
+
 Thousands of shops were closed and household names disappeared. Sectors such as furniture and homewares perished as consumers deferred big purchases. supermarkets and value chains gathered momentum as consumers traded down.
+
 TRANSPORT
+
 Transport companies have been among the biggest losers
+
 MANUFACTURING
+
 What is left of UK manufacturing suffered several blows as banks stopped lending
+
 PROPERTY
+
 The boom in commercial and residential property prices came to an abrupt halt with house prices down 20% year-on-year. the market took an unexpected turn as the year progressed with prices pushed up as buyers fought over a small number of properties. 
+
 ENERGY
+
 The oil price has stayed higher than in previous downturns and cushioned the oil companies
+
 FUN
+
 The economic gloom put mass escapism on the menu with the buzz around James Cameron's sci-fi move Avatar, as well as blockbuster films such as Harry Potter and the Half-Blood Prince and Star Trek, putting the UK's box offices on track for record takings of £1bn in 2009.***
 
 # Dataset details
