@@ -87,8 +87,6 @@ Description  = 0.0027 ~ 00.27%
 
 # Dataset details after cleaning
 
-![image](https://user-images.githubusercontent.com/71720761/113479912-3e479b80-94af-11eb-858d-262346522e68.png)
-
 ![image](https://user-images.githubusercontent.com/71720761/113479930-4ef81180-94af-11eb-8f27-b21b810e7cea.png)
 
 # EDA
