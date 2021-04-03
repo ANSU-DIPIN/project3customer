@@ -103,3 +103,75 @@ Description  = 0.0027 ~ 00.27%
 
 ![image](https://user-images.githubusercontent.com/71720761/113479981-99798e00-94af-11eb-863a-5104a0969f6b.png)
 
+* The total amount spend per country
+
+![image](https://user-images.githubusercontent.com/71720761/113480244-02153a80-94b1-11eb-9ecc-57e8514830e9.png)
+
+* The no. of customers in each month
+
+![image](https://user-images.githubusercontent.com/71720761/113480262-122d1a00-94b1-11eb-9999-622f99d59efe.png)
+
+# RFM (recency, frequency, monetary) 
+
+* A marketing technique 
+
+* used to determine quantitatively which customers are the best ones by examining how recently a customer has purchased (recency),
+
+* how often they purchase (frequency), and 
+
+* how much the customer spends (monetary)
+
+For this project, we have selected our feature candidates like below:	
+
+- RFM scores & clusters
+
+- Days between the last three purchases
+
+- Mean & standard deviation of the
+			  
+- difference 	between purchases in days
+
+# The new data frame
+
+![image](https://user-images.githubusercontent.com/71720761/113480388-9da6ab00-94b1-11eb-8c13-b40cba91a422.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480394-a13a3200-94b1-11eb-8dc8-3e255610ef86.png)
+
+# Recency, frequency & monetary
+
+![image](https://user-images.githubusercontent.com/71720761/113480409-b0b97b00-94b1-11eb-9cee-e09464c25a1b.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480411-b4e59880-94b1-11eb-8c8b-75f600a5fc12.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480412-b7e08900-94b1-11eb-92aa-ff0fade879d6.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480418-c038c400-94b1-11eb-8cf9-385eddf6801b.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480422-c3cc4b00-94b1-11eb-854a-79b7174bce83.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480424-c6c73b80-94b1-11eb-9859-fd5366de421f.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480431-caf35900-94b1-11eb-925b-d84eb1e9aaa2.png)
+
+# Model Building
+
+![image](https://user-images.githubusercontent.com/71720761/113480448-de062900-94b1-11eb-8598-9fd344e45f51.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480451-e3fc0a00-94b1-11eb-8d15-ca674e09b79c.png)
+
+# DEPLOYMENT
+
+![image](https://user-images.githubusercontent.com/71720761/113480466-f9713400-94b1-11eb-8c58-a69356d2f1ca.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480468-fd04bb00-94b1-11eb-9e17-3a50ce0e0ec7.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480473-02620580-94b2-11eb-8b2f-8e7b62f86d6f.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480480-0857e680-94b2-11eb-968c-f4967c8a56ec.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480487-0db53100-94b2-11eb-8993-5ee1bf5ab030.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480491-1279e500-94b2-11eb-9d7b-5df304ce382e.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113480499-1d347a00-94b2-11eb-8c4b-3210f108a098.png)
+
