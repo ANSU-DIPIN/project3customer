@@ -85,10 +85,6 @@ Customer ID = 0.2493 ~ 24.93%
 
 Description  = 0.0027 ~ 00.27%
 
-![image](https://user-images.githubusercontent.com/71720761/113479890-1fe1a000-94af-11eb-8674-83d66b8ce08c.png)
-
-![image](https://user-images.githubusercontent.com/71720761/113479895-2708ae00-94af-11eb-99c4-f88614f322ef.png)
-
 # Dataset details after cleaning
 
 ![image](https://user-images.githubusercontent.com/71720761/113479912-3e479b80-94af-11eb-858d-262346522e68.png)
